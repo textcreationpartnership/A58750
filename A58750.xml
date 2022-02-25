@@ -1,0 +1,591 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A yoke for the Roman-bulls Being a poem written on the royal proclamation for exiling popish-priests and Jesuits, &amp;c. To which is added, A telescope for the new astrologers: or, A looking-glass for the staring star-gazers. Wherein is a reply to the libellious and seditious censurers of the late fire in the City of London.  By T. S. Licensed according to authority, the 7th. of Decemb. 1666.</title>
+            <author>T. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58750</idno>
+            <idno type="STC">Wing S187</idno>
+            <idno type="STC">ESTC R219811</idno>
+            <idno type="EEBO-CITATION">99831258</idno>
+            <idno type="PROQUEST">99831258</idno>
+            <idno type="VID">35721</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58750)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35721)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2041:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A yoke for the Roman-bulls Being a poem written on the royal proclamation for exiling popish-priests and Jesuits, &amp;c. To which is added, A telescope for the new astrologers: or, A looking-glass for the staring star-gazers. Wherein is a reply to the libellious and seditious censurers of the late fire in the City of London.  By T. S. Licensed according to authority, the 7th. of Decemb. 1666.</title>
+                  <author>T. S.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S. Speed, at the sign of the Rain-Bow in Fleet-street,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>In verse.</note>
+                  <note>"A looking-glass for staring star-gazers" has caption title on p. 5.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Poetry --  Early works to 1800.</term>
+               <term>Astrology --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35721:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 70 -->
+            <p>A YOKE For the Roman-Bulls. BEING A POEM written on the Royal Proclamation for Exiling Popiſh-Prieſts and Jeſuits, <hi>&amp;c.</hi>
+            </p>
+            <p>To which is added, A TELESCOPE For the New Aſtrologers: OR, A Looking-glaſs for the Staring Star-gazers. WHEREIN IS A Reply to the Libellious and Seditious Cenſurers of the late Fire in the City of <hi>London.</hi>
+            </p>
+            <p>By <hi>T. S.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license_to_print">
+                        <p>Licenſed according to Authority, <date>the 7th. of <hi>Decemb.</hi> 1666.</date>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed for <hi>S. Speed,</hi> at the Sign of the <hi>Rain-Bow</hi> in <hi>Fleet-ſtreet.</hi> 1666.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:35721:2"/>
+            <!-- PDF PAGE 71 -->
+            <pb n="1" facs="tcp:35721:2"/>
+            <!-- PDF PAGE 71 -->
+            <head>A YOKE For the Roman-Bulls.</head>
+            <head type="sub">A POEM Written on the Royal Proclamation for exiling Popiſh-Prieſts, <hi>&amp;c.</hi> before <hi>December</hi> the 10th. 1666.</head>
+            <epigraph>
+               <q>—Procul hinc procul ite nocentes.
+<bibl>
+                     <hi>Statius.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <lg>
+               <l>POpe ope thine Arms, and <hi>Rome</hi> make larger roome</l>
+               <l>For thine own <hi>Darlings</hi> now are com<g ref="char:EOLhyphen"/>ing home:</l>
+               <l>
+                  <hi>So Fau'kners do receive their Birds of Prey,</hi>
+               </l>
+               <l>
+                  <hi>When at their Game they can no longer ſtay.</hi>
+               </l>
+               <l>Here is no room in <hi>England</hi> for your Breed,</l>
+               <l>We'll <hi>ſend for 'um again when we have need.</hi>
+               </l>
+               <l>The <hi>awful voice is ſent forth,</hi> and th'ad beſt</l>
+               <l>Be from their Machinations repreſt.</l>
+               <l>So Foxes when bold <hi>Treſpaſſers</hi> they be</l>
+               <l>Are ready at the <hi>Land-lords</hi> voice to flee.</l>
+               <l>Our holy <hi>Faiths Defenders</hi> pious care</l>
+               <l>Denies them here to fix their treach'rous <hi>Snare:</hi>
+               </l>
+               <l>
+                  <hi>So do the gen'rous Lions nobly chaſe</hi>
+               </l>
+               <l>
+                  <hi>Rapacious Vultures lurking in their Place.</hi>
+               </l>
+               <pb n="2" facs="tcp:35721:3"/>
+               <!-- PDF PAGE 72 -->
+               <l>And think ye not our <hi>Royal Lyons</hi> will</l>
+               <l>From <hi>Wolves</hi> protect our <hi>Flock</hi> &amp; <hi>Shepherds</hi> ſtill?</l>
+               <l>'Tis not the <hi>roaring</hi> of a <hi>Roman-B<g ref="char:V">Ʋ</g>LL</hi>
+               </l>
+               <l>Can ſcare thoſe <hi>Royal Beaſts,</hi> or diſanul</l>
+               <l>Their <hi>Sov'raign Right;</hi> No, no, go tell your Pope</l>
+               <l>We are not to be <hi>bull'd</hi> by him; nor hope</l>
+               <l>To <hi>build</hi> your <hi>Roman Church</hi> by horrid <hi>Plots,</hi>
+               </l>
+               <l>Perfidious as the <hi>Presbyterian-Scots:</hi>
+               </l>
+               <l>Your <hi>holy Water,</hi> holy as it is,</l>
+               <l>Will never purifie your ſouls in this,</l>
+               <l>Think ye that Heaven can in juſtice ſee</l>
+               <l>And ſuffer with ſucceſs ſuch Villanie?</l>
+               <l>No, for to <hi>ſacred Truth</hi> 'tis as contrary,</l>
+               <l>As <hi>to make Prayers unto the Virgin Mary.</hi>
+               </l>
+               <l>And 'tis as <hi>fruitleſs Labour</hi> I proteſt,</l>
+               <l>As <hi>to adore St.</hi> Francis <hi>and the reſt.</hi>
+               </l>
+               <l>I doubt not but your <hi>Cardinals</hi> will find</l>
+               <l>They <hi>had as good their CAPS throw 'gainſt the wind,</hi>
+               </l>
+               <l>Though to aſſiſt ſuch impious intents,</l>
+               <l>Ye had as many Popes <hi>as Sacraments.</hi>
+               </l>
+               <l>Prepare to march then, with your <hi>Romiſh-cheer,</hi>
+               </l>
+               <l>Ye muſt not think <hi>to keep your Chriſtmas here.</hi>
+               </l>
+               <l>Y'are no fit <hi>Chriſtmas-Gueſts for England,</hi> ſo</l>
+               <l>When our bleſt <hi>Advent</hi> comes, then you muſt go:</l>
+               <l>Make haſte, and you'll come time enough (I hope)</l>
+               <l>For New-years-gifts preſented to the Pope.</l>
+               <l>But if ye do exceed th'<hi>appointed time,</hi>
+               </l>
+               <l>'Tis no <hi>Popes pardon</hi> can <hi>abſolve</hi> your crime.</l>
+               <l>Take with ye all your <hi>Reliques,</hi> let no more</l>
+               <l>Your <hi>Romiſh-trumpery</hi> reſt on our ſhore.</l>
+               <l>(Nothing of <hi>Rome</hi> we need within our Land,</l>
+               <l>Unleſs when Ladies write in <hi>Roman-hand.</hi>)</l>
+               <l>Let <hi>Jeſuitick Ginns</hi> no more be ſeen</l>
+               <l>To <hi>gull the ſimple;</hi> root up all your <hi>green</hi>
+               </l>
+               <pb n="3" facs="tcp:35721:3"/>
+               <!-- PDF PAGE 72 -->
+               <l>Tranſplanted <hi>Innovations,</hi> don't ye know</l>
+               <l>
+                  <hi>From the beginning</hi> (that) <hi>it was not ſo?</hi>
+               </l>
+               <l>Don't think to you ſo ſoon we will ſubmit,</l>
+               <l>For all your boaſts of Learning and of Wit:</l>
+               <l>Why mayn't a <hi>Perſon</hi> of mean document</l>
+               <l>Pray be as prudent as Pope INNOCENT?</l>
+               <l>I think upon Record it may be ſeen</l>
+               <l>That half your Popes too <hi>Innocents</hi> have been.</l>
+               <l>Then don't proud <hi>Emp<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ricks</hi> through the <hi>
+                     <g ref="char:V">Ʋ</g>niverſe</hi>
+               </l>
+               <l>No more your <hi>Epidemick drugs</hi> diſperſe.</l>
+               <l>Go heal your Pope; ye can't deny I'm ſure</l>
+               <l>But that his <hi>Holineſs</hi> doth need a cure.</l>
+               <l>And (as for him) 'tis alſo thought I ſee</l>
+               <l>That <hi>change of air</hi> is requiſite for ye.</l>
+               <l>Why then be gone, and think not to delay</l>
+               <l>The <hi>Royal Mittimus</hi> to diſobey,</l>
+               <l>For 'tis as vain for <hi>Reſidence</hi> to plead</l>
+               <l>As to <hi>make interceſſion for the dead.</hi>
+               </l>
+               <l>No <hi>Papal diſpenſation</hi> can obtain</l>
+               <l>
+                  <hi>Connivance</hi> for ye longer to remain.</l>
+               <l>Your <hi>
+                     <g ref="char:V">Ʋ</g>NIVERSAL VICAR</hi>'s <hi>wreſted ſtile</hi>
+               </l>
+               <l>Will finde but little Vigour in our <hi>Iſle:</hi>
+               </l>
+               <l>For though he <hi>Lord</hi> it over OTHER KINGS,</l>
+               <l>OURS are SACRED, and our <hi>ſacred things,</hi>
+               </l>
+               <l>As alſo <hi>Perſons</hi> are (as is moſt fit)</l>
+               <l>Above his <hi>
+                     <g ref="char:V">Ʋ</g>ſurpation,</hi> though he ſit</l>
+               <l>As PETER'S (proud) SUCCESSOR <hi>by pretence,</hi>
+               </l>
+               <l>
+                  <hi>Our Divine</hi>
+                  <note n="*" place="margin">His Majeſties Royal Grand<g ref="char:EOLhyphen"/>father, and our firſt Eng<g ref="char:EOLhyphen"/>liſh Monarch.</note> JAMES <hi>his real one's</hi> immenſe</l>
+               <l>And Royal <hi>Title</hi> to his <hi>Monarchy,</hi>
+               </l>
+               <l>The PAPAL INT'RST can and doth deny.</l>
+               <l>O that our <hi>holy Vine</hi> were once but free</l>
+               <l>From the <hi>dead Ivie</hi> of <hi>each Enemy.</hi>
+               </l>
+               <l>Thoſe <hi>greedy Foxes ſeeking to devour</hi>
+               </l>
+               <l>With <hi>equal malice her divineſt Power:</hi>
+               </l>
+               <pb n="4" facs="tcp:35721:4"/>
+               <!-- PDF PAGE 73 -->
+               <l>Leaving with horrour to ſucceeding Time,</l>
+               <l>
+                  <hi>Novembers Plots</hi> and <hi>Januaries Crime:</hi>
+               </l>
+               <l>While both do madly looſe by each <hi>extream</hi>
+               </l>
+               <l>The pureſt Church of <hi>Englands golden Mean.</hi>
+               </l>
+               <l>Be ſilent ye <hi>Impoſtors,</hi> then, by whom,</l>
+               <l>Between the Church of <hi>England</hi> and of <hi>Rome</hi>
+               </l>
+               <l>Is judg'd ſo little <hi>odds;</hi> ye that wou'd fain</l>
+               <l>Over that <hi>Gulph</hi> an <hi>eaſie Bridge</hi> maintain.</l>
+               <l>Fie, don't demonſtrate with ſo little ſence</l>
+               <l>Your ignorance as well as impudence.</l>
+               <l>How many of <hi>her Sons</hi> (pray) for <hi>her ſake</hi>
+               </l>
+               <l>Have gone to Heaven from the <hi>Flaming-ſtake?</hi>
+               </l>
+               <l>Don't ſo betray your malice then; 'tis true,</l>
+               <l>They are as much <hi>Her</hi> friends, I think, as you:</l>
+               <l>Though ye are more <hi>
+                     <g ref="char:V">Ʋ</g>nnat'ral</hi> than the <hi>other,</hi>
+               </l>
+               <l>So <hi>Viper</hi>-like to <hi>tear</hi> your own dear <hi>Mother.</hi>
+               </l>
+               <l>Your <hi>bold Compariſon</hi> is as uneven,</l>
+               <l>As 'twixt ſuch <hi>Saints</hi> as you, and thoſe in Hea<g ref="char:EOLhyphen"/>ven.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="5" facs="tcp:35721:4"/>
+            <!-- PDF PAGE 73 -->
+            <head>A LOOKING-GLASS For the Staring Star-gazers.</head>
+            <head type="sub">Hoc faciunt ſiulti quos gloria vexat inanis</head>
+            <lg>
+               <l>
+                  <hi>SEctarian</hi> Sirs, who to the world declare</l>
+               <l>How great your own <hi>Religiouſneſſes</hi> are,</l>
+               <l>And are with <hi>Phariſean</hi> lips ſo free
+<note place="margin">—<hi>Limis ocu<g ref="char:EOLhyphen"/>lu in res alie<g ref="char:EOLhyphen"/>nas inquirens.</hi> Hor.</note>
+               </l>
+               <l>To cry <hi>Stand off, we're holier than ye;</hi>
+               </l>
+               <l>And, <hi>God be thanked, we are not ſo much</hi>
+               </l>
+               <l>
+                  <hi>Involv'd in ſin as Publicans</hi> and ſuch.</l>
+               <l>Who like ſo many Popes do oft confeſs</l>
+               <l>Such <hi>large dimenſions of your Holineſs;</hi>
+               </l>
+               <l>Who now can cry, <hi>Theſe are your ſinful crimes</hi>
+               </l>
+               <l>
+                  <hi>That cauſe ſuch judgements on theſe wicked times.</hi>
+               </l>
+               <l>And e'en wou'd <hi>force</hi> the Planets too to be</l>
+               <l>Predictive of a <hi>ſecond Deſtinie.</hi>
+               </l>
+               <l>Who have your <hi>Faith and Doctrine</hi> from ſo high,</l>
+               <l>Not from the <hi>holy Mountain,</hi> but the Skie.</l>
+               <l>Whence had ye (pray) your learning, that ſo ſoon</l>
+               <l>Your <hi>Study</hi> is as <hi>lofty</hi> as the <hi>Moon?</hi>
+               </l>
+               <l>Your Conventicles I did never hear</l>
+               <l>At <hi>Greſham-Colledge</hi> ever did appear;</l>
+               <l>Who made ye (pray) ſuch <hi>mighty Cenſurers</hi>
+               </l>
+               <l>As if your
+<note n="*" place="margin">They dropt about libels, therein pre<g ref="char:EOLhyphen"/>tending the Planets did divine that <hi>Weſtminſter</hi> &amp; <hi>Southwark</hi> would be burnt in <hi>O<g ref="char:EOLhyphen"/>ctob.</hi> &amp;c.</note> 
+                  <hi>Libels</hi> were all <hi>falling-Stars?</hi>
+               </l>
+               <l>From whom (I wonder) do ye boaſt <hi>your Riſe?</hi>
+               </l>
+               <l>From <hi>Mother Shipton?</hi> or was ſhe too <hi>Wiſe</hi>
+               </l>
+               <pb n="6" facs="tcp:35721:5"/>
+               <!-- PDF PAGE 74 -->
+               <l>To be your <hi>Head?</hi> ſhe doubtleſs too is ſtaler;</l>
+               <l>Perhaps ye onely riſe from <hi>Saint James Nayler.</hi>
+               </l>
+               <l>Why then beware his <hi>deſtinie,</hi> while you</l>
+               <l>Wiſh other men what to your ſelves is due,</l>
+               <l>Leſt like <hi>Perillus</hi> ye tormented are
+<note place="margin">—<hi>Nec enim lex juſtior ulla, Quam necis artifices arte perite ſua.</hi> Ovid.</note>
+               </l>
+               <l>By that which ye for others did prepare;</l>
+               <l>Or <hi>Thraſius</hi>-like become the <hi>Victim</hi> when</l>
+               <l>Ye did deſign the Lot 'mongſt other men.</l>
+               <l>I fear 'tis not your Judgement, but deſire</l>
+               <l>We may behold a <hi>ſecond diſmal Fire.</hi>
+               </l>
+               <l>Or, is your wickedneſs ſo horrid, that</l>
+               <l>What ye <hi>fore-tell,</hi> ye'd alſo perpetrate?</l>
+               <l>Then don't <hi>(deluding Ones)</hi> pretend ye are</l>
+               <l>Inſpired by a Planet or a Star:</l>
+               <l>While ye abuſe (by your Hypocriſie)</l>
+               <l>The noble Science of Aſtrologie.</l>
+               <l>Do not, great <hi>Pſeudo-Prophets,</hi> pray ye, fain</l>
+               <l>Your ſelves to be of Sage
+<note n="*" place="margin">who (as <hi>Homer</hi> in his <hi>Odyſſes</hi> re<g ref="char:EOLhyphen"/>porteth) was as famous a<g ref="char:EOLhyphen"/>mong the Grecians for Prediction, as <hi>Aeſculapius</hi> for Phyſick.</note> 
+                  <hi>Melampus</hi> ſtrain,</l>
+               <l>While your inept inventions plainly plods,</l>
+               <l>To make ye <hi>Pſappho</hi>-like but <hi>airy Gods:</hi>
+               </l>
+               <l>Let not ſuch whimſies mount ye up ſo faſt,</l>
+               <l>
+                  <hi>Owels that attempt to ſoar, will fall at laſt.</hi>
+               </l>
+               <l>Gaze in the Skies no more, nor madly prate;</l>
+               <l>Look to the <hi>blazing-Comets</hi> in your pate,</l>
+               <l>Keep off your ſaucy hands from <hi>Heavens Rod,</hi>
+               </l>
+               <l>As if ye wou'd uſurp the Throne of God.
+<note place="margin">Quae Deus oc<g ref="char:EOLhyphen"/>culta eſſe vo<g ref="char:EOLhyphen"/>luit non ſcru<g ref="char:EOLhyphen"/>tanda ſunt.</note>
+               </l>
+               <l>(Such is your pride, your pride (I ſay) is ſuch,</l>
+               <l>Ye have been to uſurping us'd ſo much.)</l>
+               <l>Let not conceits ſo giddy and ſo vain</l>
+               <l>Poſſeſs your factious, peace-diſturbing brain.</l>
+               <l>Theſe your tranſcendent errours do declare</l>
+               <l>Your minds as wand'ring as the Planets are?</l>
+               <l>But what your ſelves cannot believe, you will</l>
+               <l>(Seducers-like) affirm to others ſtill.</l>
+               <pb n="7" facs="tcp:35721:5"/>
+               <!-- PDF PAGE 74 -->
+               <l>
+                  <hi>Thus have we ſeen the Juglers often uſe</hi>
+               </l>
+               <l>
+                  <hi>To do, that they the People may amuſe.</hi>
+               </l>
+               <l>You'll likewiſe <hi>Deifie</hi> your ſelves,
+<note place="margin">Niſi quod fa<g ref="char:EOLhyphen"/>ciunt nihil rectè judicant.</note> and then</l>
+               <l>You'd fain make <hi>Devils</hi> of all other men,</l>
+               <l>As if to you that priviledge were given,</l>
+               <l>
+                  <hi>Hugh Peters</hi>-like to <hi>ſee both Hell and Heaven.</hi>
+               </l>
+               <l>Popes have (ye ſay) no power to <hi>make a Saint,</hi>
+               </l>
+               <l>Nor ye to <hi>make a Devil,</hi> I'll maintain't;</l>
+               <l>But onely thus far <hi>(ſailing</hi> on ſuch <hi>Shelves</hi>
+               </l>
+               <l>Of Errour) to make Devils of your ſelves.</l>
+               <l>Then ben't ſo forward to condemn all thoſe</l>
+               <l>That are ſo honeſt as to be your foes.
+<note place="margin">Judicet ille de alterius errore qui non halet in ſeipſo quod condemnet.</note>
+               </l>
+               <l>But while ye cenſure others, do but view</l>
+               <l>What reprehenſions to your ſelves are due.</l>
+               <l>Look in your own hearts, and conſider then</l>
+               <l>Your ſelf-exaltings 'bove your bretheren.</l>
+               <l>Miſtake me not, I go not to deny</l>
+               <l>The Nations ſins brings this Calamity:</l>
+               <l>No, I avouch it, but I'd have <hi>unfurl'd</hi>
+               </l>
+               <l>Your own deluding <hi>Colours</hi> to the world.</l>
+               <l>All Whoredom, Drunkenneſs and Swearing, I</l>
+               <l>Abhor as much as you to juſtifie.</l>
+               <l>Yes, but I'd have ye too, as well as theſe,</l>
+               <l>Conſider how your own may God diſpleaſe.</l>
+               <l>VVas <hi>Corah, Dathan, and Abirams</hi> Crew, then?</l>
+               <l>Not ſuch a kinde of <hi>Cattle</hi> (pray) as you?</l>
+               <l>VVas not their crime Rebellion? 'gainſt whom</l>
+               <l>VVas <hi>Moſes</hi> not, and <hi>Aaron</hi> (pray) the men?</l>
+               <l>Don't ye the <hi>ſame in diſobedience</hi> do</l>
+               <l>Againſt your <hi>Lord the King</hi> and <hi>Biſhops</hi> too?</l>
+               <l>Are not your <hi>murmurings</hi> pray even ſuch,</l>
+               <l>The Biſhops <hi>take upon them too too much?</hi>
+               </l>
+               <l>And (like that curſed Crew too) don't ye cry</l>
+               <l>The Clergy they <hi>are lifted up too high?</hi>
+               </l>
+               <pb n="8" facs="tcp:35721:6"/>
+               <!-- PDF PAGE 75 -->
+               <l>And did not on thoſe Rebels this provoke</l>
+               <l>From angry Heaven a moſt hideous ſtroke?</l>
+               <l>Come,
+<note place="margin">—<hi>Sub dulci melle venena latent.</hi> Virg. <hi>In nomine Do<g ref="char:EOLhyphen"/>mini incipit omne malum. —Rabido ge<g ref="char:EOLhyphen"/>ſtans ſub pe<g ref="char:EOLhyphen"/>ctore Vulpem.</hi> Perſ. <hi>Sat.</hi> 3.</note> come, this <hi>wilful diſobedience</hi>
+               </l>
+               <l>Maſqu'd under Conſcience is an high offence.</l>
+               <l>Religion and Conſcience often be</l>
+               <l>Pretended in the worſt of Villanie.</l>
+               <l>To wave all others, and to quote the high'ſt,</l>
+               <l>Did not the <hi>Jews</hi> in crucifying Chriſt</l>
+               <l>Pretend the ſame as zealouſly as you</l>
+               <l>Did in (next unto that) the higheſt too,</l>
+               <l>VVhen ye did act that execrable ſin</l>
+               <l>On <hi>Martyr'd Charles,</hi> who's now as <hi>Cherubin?</hi>
+               </l>
+               <l>Come,
+<note place="margin">
+                     <hi>Qui curios ſimulant, &amp; bacchanalia vivunt.</hi> Juv.</note> there's no ſinner like the Hypocrite,</l>
+               <l>The Proverb ſaies, <hi>No Devil like the white.</hi>
+               </l>
+               <l>I make no doubt ye all your ſelves ſuppoſe</l>
+               <l>
+                  <hi>Shadrachs, and Meſhachs, and Abednegos;</hi>
+               </l>
+               <l>But pray did none of ye that were poſſeſt</l>
+               <l>Of <hi>Habitations,</hi> burn among the reſt?</l>
+               <l>I know <hi>your great pretence,</hi> forſooth, ye can</l>
+               <l>Obey the VVill of God 'bove that of man;</l>
+               <l>But what obeying God is greater than</l>
+               <l>Th' obeying of juſt <hi>Authorized Men?</hi>
+               </l>
+               <l>Then while blind Zeal juſt duties thus controuls,</l>
+               <l>Let not fond <hi>errours</hi> ſo ſeduce your ſouls.</l>
+               <l>No <hi>Golden Gods</hi> are by a <hi>Heathen King</hi>
+               </l>
+               <l>Commanded now to worſhip, No, the thing</l>
+               <l>Required now, is to obey (I'm ſure)</l>
+               <l>The <hi>living God</hi> in <hi>worſhip that is pure.</hi>
+               </l>
+               <l>Then what pretence is left? O Conſcience! now</l>
+               <l>Theſe things ye can't by any means allow.</l>
+               <l>Have ye forgot, when ye did ſcruple leſs</l>
+               <l>Rebellion, Murder, and <hi>all wickedneſs?</hi>
+               </l>
+               <l>And does this Conſcience ſtill lack libertie?</l>
+               <l>Pray what to do? <hi>To ſwallow up the Sea?</hi>
+               </l>
+               <pb n="9" facs="tcp:35721:6"/>
+               <!-- PDF PAGE 75 -->
+               <l>Contend not then ſo fooliſhly, who is</l>
+               <l>Guilty'ſt of <hi>this ſad Metamorphoſis;</hi>
+               </l>
+               <l>But let us all reform; I'd need but ſay,</l>
+               <l>Then let us but the King and Church obey:</l>
+               <l>Their Laws command I'm ſure, of me and you,</l>
+               <l>Both <hi>What to</hi> Caeſar <hi>and to</hi> God <hi>is due.</hi>
+               </l>
+               <l>(Hear what the holy Churches STARS <hi>divine,</hi>
+               </l>
+               <l>Fear not to what <hi>the others do incline;</hi>
+               </l>
+               <l>The <hi>Superſtition</hi>'s in <hi>obſerving thoſe,</hi>
+               </l>
+               <l>When we imagine they ſo much impoſe.)</l>
+               <l>As for the <hi>Conſiſtory-courts,</hi> I'm ſure</l>
+               <l>Their Laws are wholeſome, their due practice pure:</l>
+               <l>But what's the reaſon ye will thoſe deſpiſe?</l>
+               <l>Becauſe they puniſh your iniquities?</l>
+               <l>I ne'er was <hi>queſtion'd</hi> by 'um, but I muſt</l>
+               <l>Confeſs, I think, th'are <hi>merciful and juſt:</hi>
+               </l>
+               <l>But ye're reſolved onely to oppoſe</l>
+               <l>Things legally ordain'd, and onely thoſe.</l>
+               <l>Come, come, obey, obey (I ſay) the King,</l>
+               <l>And wave each <hi>frivolous and fooliſh thing.</hi>
+               </l>
+               <l>Ye cry down Bears; indeed 'tis too too true,</l>
+               <l>The Land's too full of ſuch like <hi>Bears</hi> as you;</l>
+               <l>Ye blame the <hi>enmity between the Beaſts,</hi>
+               </l>
+               <l>But greater enmity lurks in your breaſts.</l>
+               <l>Ye like no Plaies, but chiefly thoſe that be</l>
+               <l>Like unto <hi>Maſs' annello's Tragedie.</hi>
+               </l>
+               <l>No, thoſe unmaſque Rebellious wickedneſs,</l>
+               <l>And ſhew ye how your conſcious ſouls tranſgreſs.</l>
+               <l>To <hi>Theatres of blood</hi> ye can ſubmit,</l>
+               <l>But not unto a <hi>Theatre of Wit;</hi>
+               </l>
+               <l>And with an <hi>Hewſon</hi>-ey'd Zeal you will report</l>
+               <l>The ſins not of the Country but the Court.</l>
+               <l>Perhaps ye ne'r have been there, ſince <hi>White-hall</hi>
+               </l>
+               <l>Was made an <hi>Acheron</hi> by <hi>ſtinking Noll,</hi>
+               </l>
+               <pb n="10" facs="tcp:35721:7"/>
+               <!-- PDF PAGE 76 -->
+               <l>When <hi>Pluto</hi> there a <hi>helliſh Court</hi> did keep,</l>
+               <l>And curſed <hi>Hugh</hi> did preach his Imp aſleep.</l>
+               <l>And ſo ye think it ſtill the ſame: but know,</l>
+               <l>Now the <hi>juſt Steward's in't</hi> 'tis nothing ſo.</l>
+               <l>Perſons make places quite anew become,</l>
+               <l>As <hi>Pompey's Reſidence made Africk Rome.</hi>
+                  <note place="margin">Mrs. K. P.</note>
+               </l>
+               <l>Pray if ye are ſuch Courtiers that ye know</l>
+               <l>In what the Courtiers ſin, and what they do;</l>
+               <l>Come once again to Court, and ſee a thing,</l>
+               <l>Look on your gratious and indulgent King:</l>
+               <l>See, ſee how much of Clemency and Grace</l>
+               <l>Sits in his Royal and Majeſtick Face.</l>
+               <l>See whom ye do offend, it wou'd convince</l>
+               <l>A <hi>Scythian</hi> to behold ſo good a Prince;</l>
+               <l>Perhaps your diſobedient hearts will melt,</l>
+               <l>Having the power of ſuch an object felt.</l>
+               <l>Remember his <hi>Amneſtia,</hi> don't ye know</l>
+               <l>To him your lives and liberties ye owe?</l>
+               <l>Then ben't deluded (once again, I ſay,</l>
+               <l>If ye wou'd Heaven pleaſe, the King obey.)</l>
+               <l>Your <hi>Tub-invading Rabſhakehs</hi> ne'er lack</l>
+               <l>Tricks to ſeduce additions to the <hi>Pack;</hi>
+               </l>
+               <l>But though they <hi>Gowns</hi> refuſe, yet be it ſpoke,</l>
+               <l>'Tis not the longeſt <hi>Presbyterian</hi> Cloak</l>
+               <l>Will <hi>hide their knav'ry;</hi> that will be diſplaid,</l>
+               <l>Though they're as flie as <hi>He that whipt his Maid.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35721:7"/>
+            <!-- PDF PAGE 76 -->
+         </div>
+      </body>
+   </text>
+</TEI>
